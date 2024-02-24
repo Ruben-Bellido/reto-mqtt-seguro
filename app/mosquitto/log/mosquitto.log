@@ -1,0 +1,31 @@
+1708779515: mosquitto version 2.0.18 starting
+1708779515: Config loaded from /mosquitto/config/mosquitto.conf.
+1708779515: Warning: File /mosquitto/config/mosquitto.passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/mosquitto.passwd`.
+1708779515: Opening ipv4 listen socket on port 1883.
+1708779515: Opening ipv6 listen socket on port 1883.
+1708779515: Opening websockets listen socket on port 9001.
+1708779515: mosquitto version 2.0.18 running
+1708779695: New connection from 127.0.0.1:33786 on port 1883.
+1708779695: Client auto-1F9EB2F8-768E-F0A3-017C-A2D8BF5A209E disconnected, not authorised.
+1708780383: New connection from 127.0.0.1:42292 on port 1883.
+1708780383: Client auto-6FE9A974-CB99-B8E0-85D2-2FAF1E350882 disconnected, not authorised.
+1708780568: mosquitto version 2.0.18 terminating
+1708780568: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708780569: mosquitto version 2.0.18 starting
+1708780569: Config loaded from /mosquitto/config/mosquitto.conf.
+1708780569: Opening ipv4 listen socket on port 1883.
+1708780569: Opening ipv6 listen socket on port 1883.
+1708780569: Opening websockets listen socket on port 9001.
+1708780569: mosquitto version 2.0.18 running
+1708780592: New connection from 127.0.0.1:47336 on port 1883.
+1708780592: New client connected from 127.0.0.1:47336 as auto-7965C056-2D72-4A63-A987-F1ED6022B441 (p2, c1, k60, u'test').
+1708780639: New connection from 127.0.0.1:45652 on port 1883.
+1708780639: New client connected from 127.0.0.1:45652 as auto-CB5E0598-4A3E-BCC9-2C6E-571A47C81452 (p2, c1, k60, u'test').
+1708780639: Client auto-CB5E0598-4A3E-BCC9-2C6E-571A47C81452 disconnected.
+1708780665: New connection from 127.0.0.1:51380 on port 1883.
+1708780665: New client connected from 127.0.0.1:51380 as auto-4B89D19F-15E1-A4D0-541E-8408BEBBCA3C (p2, c1, k60, u'test').
+1708780665: Client auto-4B89D19F-15E1-A4D0-541E-8408BEBBCA3C disconnected.
+1708781191: Client auto-7965C056-2D72-4A63-A987-F1ED6022B441 disconnected.
+1708781640: mosquitto version 2.0.18 terminating
+1708781640: Saving in-memory database to /mosquitto/data//mosquitto.db.
