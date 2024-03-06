@@ -16,8 +16,10 @@
 - Desarrollo del shell script encargado de instalar todo lo necesario para que el proyecto funcione
 
 ## Instrucciones de uso
+- Ejecutar todo comando desde el directorio 'app'
 - Instalar requisitos: $ sudo sh requirements.sh
 - Generar certificados: $ sh generate_certs.sh
+- Iniciar el broker MQTT: $ docker-compose up -d
 - Cambio de contraseña: $ docker exec -it mosquitto mosquitto_passwd -c /mosquitto/config/mosquitto.passwd "usr"
 - Visualización de logs: sudo cat ./mosquitto/log/mosquitto.log
 ### Mediante línea de comandos
